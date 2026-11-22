@@ -5,7 +5,7 @@ deterministic: the same bytes on every run.
 """
 import os
 
-PLAN = "Keep the $100. Sell AI product photos to Etsy sellers on Fiverr: $25 for 10 in 24h, vs $200+ and a week for a human. Day 1: message 50 weak-photo shops, each with a free before/after of theirs. Expect 3–5 orders ($75–125); repeat daily, reinvesting, likely $1,000+ by day 30."
+PLAN = "Keep the $100. Sell 24-hour launch pages to new token projects, $120 in USDC each, paid to my wallet, no cut, no KYC. Day 1: post the offer on X with 2 samples built. Tokens launch daily; agencies take weeks, $1,000+. Expect ~1 client a week: most likely $460-580 held by day 30."
 
 
 def main() -> None:
